@@ -1,3 +1,5 @@
+/* Hello World example on Python */
+
 #include <stdio.h>
 
 int main() {
